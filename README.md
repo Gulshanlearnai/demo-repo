@@ -1,3 +1,3 @@
 # Demo
 
-This shows the description of the Repo
+This shows the description of the Repo.
